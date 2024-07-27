@@ -11,13 +11,9 @@ A study of factors impacting Canada's health and more
 ## References
 
 https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=13%2C1302#tables
-
 https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=13%2C1303#tables
-
 https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=13%2C1304#tables
-
 https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=13%2C1306#tables
-
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310014101
 
 ## Solution Architecture Image
